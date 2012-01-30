@@ -1,0 +1,16 @@
+Programmed in: C++
+The website that is used for login/ftp - XHTML/PHP/MySQL
+
+This "Game-engine" uses the following libraries : 
+
+Already in Use:
+
+SFML(http://www.sfml-dev.org)
+
+Planned for Use:
+
+A library that is able to communicate with a server, through ssh, http...(for use as: Login-system, auto-updater)
+
+For further information:
+
+GameEngine.doc
