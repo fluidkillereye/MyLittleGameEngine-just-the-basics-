@@ -1,0 +1,31 @@
+Minimal graphical functions:
+- Generate simple 2D-Worlds
+- Tile Placement engine
+- Build-in particles
+- Animation
+- Moving sprites
+- Reading Strips
+- Reading multiple formats
+
+Minimal control functions:
+- complete functional keyboard interface(sort of done already by SFML)
+- complete getter-functions for the mouse x and y...
+- complete use of game-mouse up to 5 button's
+- complete joystick-support
+
+Minimal audio functions:
+- sound effects
+- loopable background music
+- Random pickerof music out of a folder
+
+Minimal network functions:
+- easy to use and complete auto-updater
+- check of users are registed(with the functionality to check it they are premium or not)
+/*Pretty optional - But pretty high on the idea's list*/
+- Basic multiplayer functions(Maybe for far far away builds
+
+Minimal handle functions:
+- Resource handler
+- State handler
+- Initializing stuff
+- 
