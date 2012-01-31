@@ -1,6 +1,9 @@
 #ifndef GAMEGENERAL_H
 #define GAMEGENERAL_H
 
+#include <SFML/System.hpp>
+#include <SFML/Window.hpp>
+#include <SFML/Graphics.hpp>
 
 class GameGeneral
 {
